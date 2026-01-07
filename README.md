@@ -165,7 +165,19 @@ Durante o desenvolvimento deste projeto, foram reforçados conceitos importantes
 **João Roberto**<br>
 Desenvolvedor Frontend em transição de carreira, focado em React, JavaScript moderno e construção de interfaces profissionais.<br>
 
-🔗 LinkedIn: https://www.linkedin.com/in/joaorobertoo
+## Conecte-se comigo: 
+<p> 
+  <a href="https://www.linkedin.com/in/joaorobertoo" target="_blank"> 
+    <img align="left" alt="Icone do Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+  </a> 
+  <a href="https://www.instagram.com/joao_rpj" target="_blank"/> 
+    <img align="left" alt="Icone do Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> 
+  </a> 
+  <a href="https://www.facebook.com/joaorobertopereirajunior" target="_blank"> 
+    <img align="left" alt="Icone do Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/> 
+  </a> 
+</p>
+<br>
 
 ---
 
