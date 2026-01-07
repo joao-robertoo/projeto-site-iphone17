@@ -4,7 +4,7 @@ Projeto desenvolvido com foco em **alta fidelidade visual, performance e boas pr
 
 Este é um dos projetos mais completos do meu portfólio, no qual apliquei conceitos atuais do ecossistema React, organização de projeto, responsividade e fluxo profissional de build e deploy.
 
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://site-iphone-17-pro.vercel.app/)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://site-iphone-17-pro.vercel.app/ target="_blank")
 
 ---
 
